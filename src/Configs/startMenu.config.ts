@@ -32,12 +32,12 @@ export const PinnedApps: PinnedApp[] = [{
     title: "GitHub",
     icon: GitHubIcon,
     isLink: true,
-    url: "https://github.com/piyushsuthar/windows-11-web"
+    url: "https://github.com/Memeitizer-Limited/Windows-11-Web"
 }, {
     title: "Twitter",
     icon: TwitterIcon,
     isLink: true,
-    url: "https://twitter.com/piyushsthr"
+    url: "https://twitter.com/memeitizer"
 }, {
     title: "Edge",
     icon: MSEdgeIcon
