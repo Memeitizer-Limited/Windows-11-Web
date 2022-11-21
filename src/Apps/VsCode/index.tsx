@@ -1,8 +1,8 @@
 export const VsCodeApp = () => {
   return (
     <iframe
-      src="https://github1s.com/PiyushSuthar/Windows-11-Web"
-      title="Windows 11 Web"
+      src="https://tiktok.com/@the.new.memeitizer"
+      title="Memeitizer On TikTok"
       width="100%"
       height="100%"
       style={{
